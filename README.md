@@ -7,13 +7,13 @@
 ## 项目架构
 
 src -- 源码目录
-├── request -- axios网络请求定义
-├── assets -- 静态图片资源文件
-├── router -- vue-router路由配置
-├── store -- vuex的状态管理
-├── styles -- 全局css样式
-├── utils -- 工具类
-└── pages -- 前端页面
+request -- axios网络请求定义
+assets -- 静态图片资源文件
+router -- vue-router路由配置
+store -- vuex的状态管理
+styles -- 全局css样式
+utils -- 工具类
+pages -- 前端页面
 
     ├── home -- 首页
     ├── layout -- 通用页面加载框架
@@ -38,5 +38,5 @@ src -- 源码目录
 
 测试账号admin, 密码admin888
 
-我是慕筱佳,一位混迹在互联网领域的IT小白,如果对您对此项目有兴趣，可以点 "Star" 支持一下 谢谢！ ^_^
+我是慕筱佳, 一位混迹在互联网领域的IT小白, 如果对您对此项目有兴趣，可以点 "Star" 支持一下 谢谢！ ^_^
 或者您可以 "follow" 一下，我后续也将会不断开源更多的的项目, 来与大家一起分享技术的成果.
